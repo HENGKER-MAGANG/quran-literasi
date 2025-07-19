@@ -117,7 +117,7 @@
 
 <!-- Footer -->
 <footer class="bg-gray-900 text-white py-6 text-center text-sm">
-  <p>© <?= date('Y') ?> Literasi Qur'an. All rights reserved.</p>
+  <p>© <?= date('Y') ?> Literasi Qur'an. | Ikhsan Pratama.</p>
   <p class="text-gray-400">Dikembangkan oleh Tim Developer SMK/MA — Versi 1.0</p>
 </footer>
 

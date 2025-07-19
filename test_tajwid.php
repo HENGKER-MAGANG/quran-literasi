@@ -93,7 +93,7 @@
 
 <!-- Footer -->
 <footer class="bg-gray-100 dark:bg-gray-800 text-center text-gray-600 dark:text-gray-400 py-6 text-sm px-4">
-  © <?= date('Y') ?> Literasi Qur'an
+  © <?= date('Y') ?> Literasi Qur'an | Ikhsan Pratama
 </footer>
 
 <!-- Script Tema -->
